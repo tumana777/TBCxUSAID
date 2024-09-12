@@ -1,0 +1,2 @@
+This script fetches posts from a certain source and writes in json file individually.
+Main challenge is that to do all task as fast as possible using threadings 
